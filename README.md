@@ -5,6 +5,6 @@ Since the release of the first novel, Harry Potter and the Philosopher's Stone, 
 
 # Scrapping
 The data has been scrapped using selenium, BeautifulSoup and various other python libraries.
-The dataset can be found on kaggle when available.
+The dataset can be found on kaggle (https://www.kaggle.com/notkrishna/harry-potter-reviews).
 
 Have fun!
